@@ -1,0 +1,2 @@
+# synergy-slider
+Synergy sliders
